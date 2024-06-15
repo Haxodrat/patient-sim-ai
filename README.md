@@ -40,12 +40,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Tech Stack
 
-- Languages:
-  - TypeScript
-  - Tailwind CSS
-- Frameworks/Technologies:
-  - Next.JS
-  - React.JS
+### Languages:
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+
+### Frameworks/Technologies:
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
   - Deepgram API
   - GPT-4
   - Drizzle ORM
