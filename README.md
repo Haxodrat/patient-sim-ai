@@ -44,8 +44,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   <tr>
     <td>Programming Languages</td>
     <td>
-      <img="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css"/>
+      <img src="https://img.shields.io/badge/-TypeScript-%2312100E.svg?logo=typescript&style=flat-square&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css"/>
     </td>
   </tr>
   <tr>
