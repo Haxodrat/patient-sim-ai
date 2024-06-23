@@ -44,8 +44,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   <tr>
     <td>Programming Languages</td>
     <td>
-      ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-      ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+      <img="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css"/>
     </td>
   </tr>
   <tr>
@@ -60,17 +60,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   <tr>
     <td>Add-ons</td>
     <td>
-      Deepgram API
-      Drizzle ORM
-      Neon
+      Deepgram API;
+      Drizzle ORM;
+      Neon;
       Clerk
     </td>
   </tr>
 </table>
 
-
-#### Add-ons:
-  - Deepgram API
-  - Drizzle ORM
-  - Neon
-  - Clerk
