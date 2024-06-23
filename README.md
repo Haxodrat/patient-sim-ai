@@ -51,10 +51,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   <tr>
     <td>Frameworks/Technologies</td>
     <td>
-      ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-      ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-      ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-      ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
