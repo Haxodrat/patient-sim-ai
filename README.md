@@ -2,6 +2,10 @@
 
 This is the PatientSimAI platform, a Next.js project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). PatientSimAI aims to enhance medical training through realistic, AI-driven simulations.
 
+## Accomplishments
+
+- Delivered the solution to Stanford Medical School Professor.
+- Placed first out of 600+ participants and 200+ teams at HackDavis2024.
 
 ## Getting Started
 
