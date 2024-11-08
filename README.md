@@ -4,7 +4,7 @@ This is the PatientSimAI platform, a Next.js project bootstrapped with [`create-
 
 ## Accomplishments
 
-- Delivered the solution to Stanford Medical School Professor.
+- Delivered the solution to a Stanford Medical School professor.
 - Placed first out of 600+ participants and 200+ teams at HackDavis2024.
 
 ## Getting Started
