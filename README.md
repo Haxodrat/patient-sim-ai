@@ -70,4 +70,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Devpost Link
 
-[https://devpost.com/software/patientsimai](url)
+[Devpost](https://devpost.com/software/patientsimai)
